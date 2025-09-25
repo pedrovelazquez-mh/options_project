@@ -4,7 +4,7 @@ ddm_trading_opts_pct = 0.2000
 ddm_exercising_options_pct= 0.0800
 iva_pct = 0.21 
 multiplicador=100
-COOLDOWN_SECONDS = 3
+COOLDOWN_SECONDS = 10
 
 dir_md_opciones = r"C:\Users\Pedro\Research\options_project\market_data\Opciones"
 dir_md_subyacente=r"C:\Users\Pedro\Research\options_project\market_data\Subyacente"
